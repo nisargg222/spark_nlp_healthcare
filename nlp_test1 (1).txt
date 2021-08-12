@@ -1,0 +1,231 @@
+***Medical Diagnosis:***
+Today's Visit-: 
+This is the initial office visit for patient I had seen 3 years ago with possible obstructive sleep apnea with history of non-rejuvenating sleep, heavy snoring, refractory hypertension and history of TIAs. 
+
+1. Initial pulmonary evaluation. 2. Pt recently been dx heeart failure. 
+
+RESPIRATORY:
+ Asthma denies. Shortness of breath denies.
+CARDIOVASCULAR:
+ Arrhythmia denies. Bleeding vein(s) on leg(s) denies. Bulging Vein(s) on leg(s) admits. Claudication denies.
+
+Patient never had the sleep study however recently was found to have a cardiomyopathy with ejection fraction 20-25%. 
+
+Patient has had a history of stroke and diabetes
+
+Patient has bee diagnosed with stage III heart failure since 2018
+
+Being seen for possible aneurysm
+
+CHIEF COMPLAINT: Radiotherapy recommendations for Stage 116 (cT1cN0M0, PSA 13, GS 3+4) unfavorable intermediate-risk prostate adenocarcinoma.
+
+Seen and evaluated, very nice 75-year-old gentleman with a medical history of remote bypass surgery back in 1993, ejection fraction around 40%, also history of severe native disease, with occlusion of saphenous vein graft to the circumflex
+
+ Diagnosis: 
+    Chest Pain (R07.9) 
+    Asthma (J45.909) 
+    Hypertension (I10) 
+    GERD With Esophagitis (K21.0) 
+    Hyperlipidemia (E78.5) 
+    Leg Pain (M79.609) 
+    Coronary atherosclerosis of native coronary artery with unspecified angina pectoris (I25.119) 
+
+ Discussion: 
+    R07.9 - Chest Pain:50-60 % RCA on a beng-40% LAD- CLite NML at SW Cards-now with cont CP-repeat ischemic W/U-fixed 
+    defects on CLite=-no EKG changes-no Sx-still with occ CP-rec Cath-refuses at present tiome-understands risk of MI/Death etc 
+    J45.909 - Asthma: Needs Asthma maintenance 
+    I10 - Hypertension: Controlled 
+    K21.0 - GERD With Esophagitis: 
+    E78.5 - Hyperlipidemia:Statin 
+    I25.119 - Coronary atherosclerosis of native coronary artery: 50-60% RCA by last cath-F/U ischemic W/U with PET Scan-LEA for 
+    leg pain/claudication 
+
+Multilevel spondylosis. pnmarily in the lumbar spine with lumbar curvature to tne right. measuring 19 degrees 
+
+L3-L4: Moderately severe left and moderate to moderately severe right neural foraminal stenosis with disc degeneration
+
+
+***Family History***
+FAMILY HISTORY: Mother is deceased at age 84. 
+Leukemia 
+
+Father: deceased, arthritis, heart disease
+
+Reviewed Family History Mother - Alzheimer's disease Father - Diabetes mellitus
+
+Family History. E&M Colon cancer; Aunt/Uncle
+Diabetes mellitus: Mother, Father, Sister
+
+Family history of chronic obstructive pulmonary disease (V17.6) (Z82.5) Father  
+Family history of congestive heart failure (V17.49) (Z82.49) : Mother 
+Family history of depression (V17.0) (Z81.8) : Father 
+Family history of hemophilia (V18.3) (Z83.2) : Brother, Maternal Uncle
+
+Family History: 
+  Father is Deceased. 
+  Enlarged heart is Positive in Father. 
+  Heart Valve Repair is Positive in Father. 
+  Mother is Deceased. 
+  Lung Cancer is Positive in Mother. 
+
+***Risks and Complications***
+We discussed the risks of total knee arthroplasty including DVT/PE, infection, bleeding, conti ued stiffness in the joint, dislocation of the knee itself, continued pain
+
+There are also risks of MI, PE, DVT, stroke, pneumonia, blindness, and even death. The patient understands these risks and wishes to proceed with surgery.
+
+We discussed complications including stroke, clot, heart attack, pulmonary embolism and death related to the surgery or anesthesia, or other factors. The patient understands these risks and benefits of the surgery
+
+Will plan to use aspirin for DVT prophylaxis.
+
+***Symptoms***
+She is being evaluted for chest pain
+
+She has been experiencing angina since 2019
+
+The pain in the left shoulder has worsened in the last 6 months
+
+Patient has burning and cramping in both legs
+
+Patient has been complaining of bilateral knee pain for months
+
+Patient has been experiencing more frequent headaches in the past 2 months with sudden blurred vision.
+
+Patient rates his pain as 5 on a scale of 1 to 10.
+
+The patient complains of discoloration, cramping, tiredness, tingling, bulging veins, and hearing loss. The symptoms are in the bilateral legs.
+
+The CEAP classification of the right leg is Class 4a - Pigmentation or eczema 
+
+The CEAP classification of the left leg is Class 4a - Pigmentation or eczema
+
+***Radiology***
+Radiographs of the right hip consistent with end-stage ST arthritis complete loss of joint space. Subchondral sclerosis. Significant bone spurring.
+
+XR Hip 2-3 Views left him show join space narrowing and subchondral sclerosis.
+
+Doppler study of carotid artery shows 75% occlusion 
+
+Radiology: X-rays 3 views of the right knee obtained here and independently interpreted show 
+      evidence of severe patellofemoral arthritis with complete loss of joint spacing laterally evident on 
+      sunrise views. Also showing bone on bone.
+
+
+***Medications***
+         Current Medication: 
+         1 Gabapentin 300 Mg Capsule SIG: Take 1 capsule PO QD
+         2 Tizanidine HCl 4 Mg Tablet SIG: Take 1 tablet(s) by mouth daily 
+         3 Oxycodone Hcl 15 Mg Tablet SIG: Take (1) tab PO QID pm
+         4 Oxycodone/APAP 5-325mg SIG Take 1 tablet every 4-6 hours as needed
+         6 Hydrocodone/APAP 10-325mg (discontinued) SIG: Take 1 tablet 3 times a day PRN 
+         7 Ibuprofen 800mg SIG: Take 1 tablet 3 times a dar prn
+
+Patient will continue with anti-inflammatiories and analgesic medications 
+
+***Charts and Graphs***
+
+                                         Average Duration      Total Events      Lateral Index     Supine Index       OVERALL 
+                                                                                                                       INDEX 
+         Obstructive Apnea                     13                 15                 0.0               4.0              3.4 
+         Hypopnea                              19                 361                59.3              86.1             81.9 
+         Central Apnea                         0                  0                  0.0               0.0              0.0 
+         Mixed Apnea                           0                  0                  0.0               0.0              0.0 
+         Apneas + Hypopneas                    19                 376                59.3              90.1             85.3 
+
+       OXIMETRY STATISTIC 
+       Mean Oxygen Sa:uration Study -86 Desatu ration Nadi -77%  Time below 89% SP02=68.2 
+       OM 3%= 90.5                      OM 4%=82.1               OD1 5%= 73.0 
+       Time below 90%=112.8             Time below 80%=3.3       Time below 70%=0.0 
+
+       CARDIAC EVENT 
+       Highest HR = 95                               Average HR Sleep =80 
+       Lowest HR Sleep =66 
+
+
+Doppler Study Preformed 1/2/2021
+RIGHT 
+             Compressibility Thrombosis Spontaneity Phasicity Augmentation Competency    Reflux   AP 
+                                                                                         Time, s  mm 
+GSV Prox Thigh   Normal       Normal      Normal     Normal     Normal       Reduced        3.8   6.7 
+SPJ              Normal       Normal      Normal     Normal     Normal       Normal                 2 
+SSV Prox Calf    Normal       Normal      Normal     Normal     Normal       Reduced        1.7   2.2 
+SSV Mid Calf     Normal       Normal      Normal     Normal     Normal       Normal               2.8 
+
+
+
+LEFT 
+             Compressibility Thrombosis Spontaneity Phasicity Augmentation Competency    Reflux   AP 
+                                                                                         Time, s  mm 
+GSV Mid Thigh    Normal       Normal      Normal     Normal     Normal       Reduced        3.3   3.4 
+SPJ              Normal       Normal      Normal     Normal     Normal       Normal                 2 
+SSV Prox Calf    Normal       Normal      Normal     Normal     Normal       Reduced        1.3   2.2 
+SSV Mid Calf     Normal       Normal      Normal     Normal     Normal       Reduced        1.5   2.3 
+
+
+***Procedures Done and Planned***
+
+Patient will continue in compression stockings until the time of the procedure
+
+Treatment Plan: 
+LT TKA, and Rt Steroid injection at GV
+
+Member has tried and failed corticostroid injections in the right knee
+
+Patient has had physical therapy for 4 months
+
+Patient has tried NSAIDS and tylenol for 3 months
+
+Patient has used compression hose for several years
+
+1) Please schedule for an echocardiogram.
+
+
+***Labs and other Clinical Findings***
+
+Doppler Study Preformed 12/20/2020:
+Bilateral deep reflux of 2.3 seconds on the right sapheous vein and 1.9 seconds on the left. 
+
+GSV reflux of 4.5 seconds on the right and 4.3 seconds on the left. 
+
+Bilateral SSV: reflux of 2.7 seconds on the right and 2.5 seconds on the left.
+
+
+O2 Sats collected 5/2/2020
+             �   Mean hemoglobin oxygen saturation (Sa02) was 86% with a SaO2 desaturation nadir observed
+                 to 77%. 
+             �   Hypoxia was present as cumulative exposure time in sleep to SaO2 below 88% surpassed 5 total
+                 minutes (in this case, 68.2). 
+
+         Heart Rate: 
+
+         HR ranged from 66bpm to 95bpm with an average of 80bpm. 
+
+
+Vitals: 
+  Wt: 210 (lbs). Weight Difference: -36 lbs. H: 5 (ft) 7 (in). 
+  T: 97.5 (*F). Pulse OX: 97 %. The patient pulse is 71 bpm. 
+  Sitting Left-Arm: 124/80. 
+  BMI: 32.89.
+
+Patient is a non-smoker but consumes alcohol 3-4 a week
+
+***Functional Limiations***
+Since last visit, quality of life has descreased.
+
+Member has ADL limiations such as being unable to exercise
+
+Member is unable to stand for periods of time
+
+Member has poor mobility and functional impairments
+
+Patient has pain with movement and this limits her activity
+
+He has poor function that limits his activities of daily living
+
+Patient states the most pain with activities in which his knee is bent including climbing up stairs and driving. Patient states the pain is constant. He had been wearing a knee brace which surrounds the patella to reduce pain. Present today using a cane. 
+
+
+
+
+ 
+
+
